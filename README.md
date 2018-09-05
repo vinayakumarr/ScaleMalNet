@@ -1,1 +1,1 @@
-# SelfMalNet
+# ScaleMalNet
